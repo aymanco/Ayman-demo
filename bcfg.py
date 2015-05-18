@@ -16,6 +16,8 @@ from scipy.optimize import fmin_ncg
 from model2 import*
 from scipy import weave
 
+"modify the bcfg
+
 
 """ 
 Perform logistic regression using BCFG (Quasi Netwton)
