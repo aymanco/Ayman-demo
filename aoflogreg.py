@@ -4,6 +4,7 @@
 import pickle
 from cvxopt import solvers, matrix, spdiag, log, exp, div
 #solvers.options['show_progress'] = False
+#try more changes
 
 
 #Load the data from the text file and build the matrix of observations
